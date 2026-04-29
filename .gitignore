@@ -16,3 +16,4 @@ __pycache__/
 # C Object Files
 *.out
 *.o
+problem-*
